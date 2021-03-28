@@ -22,7 +22,6 @@ Guide
    help.rst
    contact.rst
    
-   modules.rst
 
 Indices and tables
 ==================
