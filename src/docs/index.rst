@@ -8,7 +8,7 @@ Descenso Conjugado y utils
 Desarrollo de la práctica 1.2 de la clase del Prof. Erick Palacios Moreno.::
 
 
-Devleopment tools!
+Devleopment tools Data Science for Mankind!
 
 Guide
 ^^^^^
